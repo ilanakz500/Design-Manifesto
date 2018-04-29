@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ilana's Design Manifesto
 
 You can use the [editor on GitHub](https://github.com/ilanakz500/Design-Manifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
