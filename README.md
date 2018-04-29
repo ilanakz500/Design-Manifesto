@@ -2,7 +2,9 @@
 
 ## About Me
 
-I am a Management Information Systems major with minors in Computer Science and Data Science. This class acts as my minor capstone for CS. 
+![alt text](https://raw.githubusercontent.com/ilanakz500/design-manifesto/ilana3.png)
+
+I am a Management Information Systems major with minors in Computer Science and Data Science.This class acts as my minor capstone for CS. 
 
 ## Projects/Portfolio
 1. Airport App Design
