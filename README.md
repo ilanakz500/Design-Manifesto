@@ -2,8 +2,8 @@
 
 ## About Me
 
-![Screenshot](ilana3.png)
-![alt text](https://raw.githubusercontent.com/ilanakz500/design-manifesto/ilana3.png)
+<img width="189" alt="ilana3" src="https://user-images.githubusercontent.com/6757445/39410842-4f079468-4bcc-11e8-9ad2-e160270e468e.PNG">
+
 
 I am a Management Information Systems major with minors in Computer Science and Data Science.This class acts as my minor capstone for CS. 
 
