@@ -1,8 +1,20 @@
+<!-- Tab links -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'Portfolio')">Portfolio</button>
+  <button class="tablinks" onclick="openCity(event, 'Design Manifesto')">Design Manifesto</button>
+</div>
+
+<!-- Tab content -->
+<div id="Portfolio" class="tabcontent">
+  <h3>My Portfolio</h3>
+  <p>Insert portfolio content</p>
+</div>
 ## Welcome to Ilana's Design Manifesto
 
 ### About Me
 
 I am a Management Information Systems major with minors in Computer Science and Data Science. This class acts as my minor capstone for CS. 
+hello
 
 ### Projects/Portfolio
 1. Airport App Design
