@@ -12,13 +12,14 @@ I am a Management Information Systems major with minors in Computer Science and 
 5. Design for Wellbeing
 6. Design for Another World 
 
+## Design Manifesto
 When I began CS 3041, I had never taken any design-based courses before and design was not something that I frequently thought about. What I learned in this course goes far beyond technologies like JavaScript, Affectiva, FlowXo, etc. I learned how to use the design-process to create a final product, regardless of the technology in use. 
  
-## The Design Process
+# The Design Process
 
-## Expectations vs Reality
+# Expectations vs Reality
 
-## Challenges
+# Challenges
 
 You can use the [editor on GitHub](https://github.com/ilanakz500/Design-Manifesto/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
