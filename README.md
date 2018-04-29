@@ -9,14 +9,15 @@
   <h3>My Portfolio</h3>
   <p>Insert portfolio content</p>
 </div>
+
 ## Welcome to Ilana's Design Manifesto
 
-### About Me
+## About Me
 
 I am a Management Information Systems major with minors in Computer Science and Data Science. This class acts as my minor capstone for CS. 
 hello
 
-### Projects/Portfolio
+## Projects/Portfolio
 1. Airport App Design
 2. Design for Others
 3. Design for Understanding
