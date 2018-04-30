@@ -15,7 +15,7 @@ Lastly, time is another important aspect in understanding the limitations of you
 ### Feedback
 Test, test, test. I wish I had understood the importance of conducting vigorous testing before, during, and after implementation of your prototype. You may design what seems to be a seamless product, with tons of functionality, but if this product poses no benefit to your target demographic, than it becomes useless. 
 While many of the projects I worked on produced visually appealing deliverables, my team did not understand our target demographic well enough to deliver a 100% useful product. 
-##### User Research
+**User Research**
 When working on the Design for Others project, my team made sure to do a lot of research on our target demographic: Toursits. We looked at webpages and mobile applications that were designed specifically for tourists, to see what functionalities were available. Additionally, we created a moodboard containing a select set of fonts, colors, and styles to set the tone for our design that we would use during development. 
 <img width="405" alt="moodboard" src="https://user-images.githubusercontent.com/6757445/39445007-9591a6ba-4c87-11e8-98fd-2000b1a34965.PNG">
 
@@ -27,7 +27,7 @@ Below are the Home and Events pages for the app.
 We chose to include an 'Emergency' page because we are assuming the tourists are foreing to either Massuchusetts and/or the United States, so they may not know how to contact emergency services or about specific health & safety resources available near Worcester.
 Without conducting an extensive study of our target demographic, we would have missed certain aspects of the design such as having the option to select a language on the Home page. 
 However, more testing can always be done. With a bit more time on our hands, it would be very useful to interview real tourists travelling in the Worcester area to ask them what they expect to see from a Public Library application. In addition, testing the prototype is extremely helpful to designers. During the demo-day in class we received many useful suggestions on our app design such as adding a page for checking out books and editing the layout of our Events page to be more user-friendly. Without user feedback like this, delpoying our app to the market may result in a failed venture. 
-##### Wizard of Oz Testing
+**Wizard of Oz Testing**
 My group for Design for Wellbeing employed Wizard of Oz testing. 
 
 
