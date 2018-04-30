@@ -32,7 +32,8 @@ Without conducting a study of our target demographic, we would have missed
 
 
 ### Challenges
-One of the challenges that arguably all of my groups faced was a lack of communication. This was most evident in my Design for Understanding group. After brainstorming and settling on our final designs, we all went our separate ways to code the project and there was little to no communication until the last day of the project. The day before the project was due, one of the group members messaged our group the following message: "Okay, this project is due tomorrow and I don't know what we have done. Can you guys post whatever you have finished for the demo here?"
+One of the challenges that arguably all of my groups faced was a lack of communication. This was most evident in my Design for Understanding group. After brainstorming and settling on our final designs, we all went our separate ways to code the project and there was little to no communication until the last day of the project. The day before the project was due, one of the group members messaged our group the following message: 
+> "Okay, this project is due tomorrow and I don't know what we have done. Can you guys post whatever you have finished for the demo here?"
 This lack of communication resulted in us delivering an inconsistent and disjoint final project. 
 
 ### Reflection
