@@ -8,6 +8,7 @@
 I am a Management Information Systems major with minors in Computer Science and Data Science. This class acts as my minor capstone for CS. This Summer, I will be working as a Data Analytics intern at MAPFRE Insurance.
 
 Click [Here](Design.md) for my Design Manifesto
+
 Click [Here](Portfolio.md) for my Portfolio
 
 
