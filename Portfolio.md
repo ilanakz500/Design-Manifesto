@@ -9,7 +9,7 @@ In this project, we were tasked to re-design the Worcester Public Library webpag
 
 3. [Design for Understanding](https://medium.com/@ilanazeldin/design-for-understanding-39975b05bcea "Design for Understanding")
 
-Through this project, I was able to understand the powerful impact of data visualization 
+Through this project, I was able to understand the powerful impact of data visualization and how data can be manipulated to tell a story. 
 
 4. [Design for Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2 "Design for Tension")
 5. [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7 "Desing for Wellbeing")
