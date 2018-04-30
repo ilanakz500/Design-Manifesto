@@ -1,3 +1,5 @@
+click **[HERE](README.md)** to go back
+
 ## Project Portfolio 💼
 **[Good Design, Bad Design](https://medium.com/@ilanazeldin/wpi-design-in-action-85e33b8efcc0 "Good Design, Bad Design")**
 
@@ -18,5 +20,3 @@ Through this project, I was able to understand the powerful impact of data visua
 **Design for Another World** 
 
 View the Demo HERE
-
-Click **[HERE](README.md)** to go Back
