@@ -9,20 +9,27 @@ I am a Management Information Systems major with minors in Computer Science and 
 
 ## Projects/Portfolio
 1. Airport App Design
-2. Design for Others
-3. Design for Understanding
-4. Design for Tension
-5. Design for Wellbeing
+2. Design for Others https://medium.com/@ilanazeldin/designing-for-tourists-816e20fdb741
+3. Design for Understanding https://medium.com/@ilanazeldin/design-for-understanding-39975b05bcea
+4. Design for Tension https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2
+5. Design for Wellbeing https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7
 6. Design for Another World 
 
 ## Design Manifesto
 When I began CS 3041, I had never taken any design-based courses before and design was not something that I frequently thought about. What I learned in this course goes far beyond technologies like JavaScript, Affectiva, FlowXo, etc. I learned how to navigate the design-process to create a final product, regardless of the technology in use. 
  
-## The Design Process
+### The Design Process
+What I discovered through this course, is that above all, sticking to the design process is integral. Without it, your team quickly becomes lost and unfocused. 
 
-### Expectations vs Reality
+### Expectations versus Reality
+Looking back on the course, I know understand that acknowledging your own and your team's limitations prior to beginning a project is an important step to delivering a successful project. Both the Design for Tension and the Design for Wellbeing projects required knowledge of JS for the deliverable; however, my project team for Design for Wellbeing had a much greater combined knowledge of JS than my group for Design for Understanding. 
+
+Additionally, understanding the available technologies 
+
+Lastly, time is another important aspect in understanding the limitations of your project. 
 
 ### Challenges
+Group communication
 
 ### Reflection
 
