@@ -11,9 +11,13 @@ In this project, we were tasked to re-design the Worcester Public Library webpag
 
 **[Design for Understanding](https://medium.com/@ilanazeldin/design-for-understanding-39975b05bcea "Design for Understanding")**
 
-Through this project, I was able to understand the powerful impact of data visualization and how data can be manipulated to tell a story. 
+Through this project, I was able to understand the powerful impact of data visualization and how data can be manipulated to tell a story. By choosing the proper visualization, a different message can be evoked, even if the data being used is the same. My group focused on a data set with information on the world's billionares. For our final project, we produced three graphs for understanding and one graph for persuasion, with the goal of swaying users to believe a specific story. 
 
 **[Design for Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2 "Design for Tension")**
+
+This project aimed to introduce us to using chatbots in order to discuss a topic of tension with a user. Our group focused on creating a bot that discussed school uniforms and we made sure that the bot would be able to argue both sides of the argument. For this project, made sure to conduct wizard of oz testing prior to implementing our bot. Some constraints for this project included the fact that Facebook had periodically de-activated the use of chatbots for its platforms, so we were left with very limited options for implementation of our bot. This was one of my favorite projects in this course and I really enjoyed programming the bot and giving him a great personality. 
+
+View the demo video **[HERE](https://www.youtube.com/watch?v=3slmotxxbrQ&feature=youtu.be)**
 
 **[Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7 "Desing for Wellbeing")**
 
