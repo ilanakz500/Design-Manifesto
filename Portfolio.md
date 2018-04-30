@@ -15,6 +15,6 @@ Through this project, I was able to understand the powerful impact of data visua
 5. [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7 "Desing for Wellbeing")
 6. Design for Another World 
 
-View the Demo HERE
+View the Demo HEREE
 
 Click [Here](README.md) to go Back
