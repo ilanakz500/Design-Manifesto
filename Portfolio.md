@@ -21,7 +21,7 @@ View the demo video **[HERE](https://www.youtube.com/watch?v=3slmotxxbrQ&feature
 
 **[Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7 "Desing for Wellbeing")**
 
-This project involved implementing Affectiva's libraries to gage users emotions and design a product that is beneficial for the user. My group implemented Affectiva to detect the user's joy response and determine if they were a cat person or a dog person. Then, we presented users with a list of benefits of being a dog-owner or a cat-owner, with the hopes of increasing their welfare.
+This project involved implementing Affectiva's libraries to gage users emotions and design a product that is beneficial for the user. My group implemented Affectiva to detect the user's joy response and determine if they were a cat person or a dog person. Then, we presented users with a list of benefits of being a dog-owner or a cat-owner, with the hopes of potentially increasing their overall welfare.
 
 View the demo **[HERE](https://brcoll.github.io/DesignForWellbeing/)**
 
