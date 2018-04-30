@@ -3,7 +3,7 @@
 When I began CS 3041, I had never taken any design-based courses before and design was not something that I frequently thought about. What I learned in this course goes far beyond technologies like JavaScript, Affectiva, FlowXo, etc. I learned how to navigate the design-process to create a strong final product, regardless of the technology in use. 
  
 ### The Design Process
-What I discovered through this course, is that above all, sticking to the design process is integral. Without it, your team quickly becomes lost and unfocused. 
+What I discovered through this course, is that above all, sticking to the design process is integral. Without it, your team quickly becomes lost and unfocused. I also learned that the design process is moldable, and changes based on the scope of your projecct as well as the available time-frame. 
 
 ### Expectations versus Reality
 Looking back on the course, I now understand that acknowledging your own and your team's limitations prior to beginning a project is an important step to delivering a successful project. Both the Design for Tension and the Design for Wellbeing projects required knowledge of JS for the deliverable; however, my project team for Design for Wellbeing had a much greater combined knowledge of JS than my group for Design for Understanding. 
