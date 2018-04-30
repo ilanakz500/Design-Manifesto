@@ -19,4 +19,5 @@ Through this project, I was able to understand the powerful impact of data visua
 
 **Design for Another World** 
 
-View the Demo HERE
+View the demo **[HERE](http://users.wpi.edu/~mbosik/AnotherWorld/)**
+
