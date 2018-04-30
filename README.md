@@ -5,7 +5,7 @@
 <img width="189" alt="ilana3" src="https://user-images.githubusercontent.com/6757445/39410842-4f079468-4bcc-11e8-9ad2-e160270e468e.PNG">
 
 
-I am a Management Information Systems major with minors in Computer Science and Data Science.This class acts as my minor capstone for CS. This Summer, I will be working as a Data Analytics intern at MAPFRE Insurance.
+I am a Management Information Systems major with minors in Computer Science and Data Science. This class acts as my minor capstone for CS. This Summer, I will be working as a Data Analytics intern at MAPFRE Insurance.
 
 ## Projects/Portfolio
 1. Airport App Design
@@ -22,7 +22,7 @@ When I began CS 3041, I had never taken any design-based courses before and desi
 What I discovered through this course, is that above all, sticking to the design process is integral. Without it, your team quickly becomes lost and unfocused. 
 
 ### Expectations versus Reality
-Looking back on the course, I know understand that acknowledging your own and your team's limitations prior to beginning a project is an important step to delivering a successful project. Both the Design for Tension and the Design for Wellbeing projects required knowledge of JS for the deliverable; however, my project team for Design for Wellbeing had a much greater combined knowledge of JS than my group for Design for Understanding. 
+Looking back on the course, I now understand that acknowledging your own and your team's limitations prior to beginning a project is an important step to delivering a successful project. Both the Design for Tension and the Design for Wellbeing projects required knowledge of JS for the deliverable; however, my project team for Design for Wellbeing had a much greater combined knowledge of JS than my group for Design for Understanding. 
 
 Additionally, understanding the available technologies 
 
