@@ -1,4 +1,4 @@
-## Projects/Portfolio
+## Project Portfolio 💼
 1. [Good Design, Bad Design](https://medium.com/@ilanazeldin/wpi-design-in-action-85e33b8efcc0 "Good Design, Bad Design")
 2. [Design for Others](https://medium.com/@ilanazeldin/designing-for-tourists-816e20fdb741 "Design for Others") 
 3. [Design for Understanding](https://medium.com/@ilanazeldin/design-for-understanding-39975b05bcea "Design for Understanding")
