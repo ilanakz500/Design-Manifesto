@@ -12,7 +12,9 @@ In this project, we were tasked to re-design the Worcester Public Library webpag
 Through this project, I was able to understand the powerful impact of data visualization and how data can be manipulated to tell a story. 
 
 **[Design for Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2 "Design for Tension")**
+
 **[Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7 "Desing for Wellbeing")**
+
 **Design for Another World** 
 
 View the Demo HERE
