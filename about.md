@@ -6,4 +6,4 @@ title: About ME
 
 In a word: **Awesome!**
 
-See the [Home page](/Design-Manifesto/README.md)
+See the [Home page](README.md)
