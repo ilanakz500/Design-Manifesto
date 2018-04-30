@@ -15,9 +15,7 @@ Lastly, time is another important aspect in understanding the limitations of you
 ### User Testing
 Test, test, test. I wish I had understood the importance of conducting vigorous testing before, during, and after implementation of your prototype. You may design what seems to be a seamless product, with tons of functionality, but if this product poses no benefit to your target demographic, than it becomes useless. 
 While many of the projects I worked on produced visually appealing deliverables, my team did not understand our target demographic well enough to deliver a 100% useful product. 
-When working on the Design for Others project, my team made sure to do a lot of research on our target demographic: Toursits. We looked at webpages and mobile applications that were designed specifically for tourists, to see what functionalities were available. 
-In our Design for Others project, we were asked to design for tourists. 
-For this project, we were able to deliver a successful prototype of an mobile app of the Worcester Public Library, designed specifically for tourists. 
+When working on the Design for Others project, my team made sure to do a lot of research on our target demographic: Toursits. We looked at webpages and mobile applications that were designed specifically for tourists, to see what functionalities were available. For this project, we were able to deliver a successful prototype of an mobile app of the Worcester Public Library, designed specifically for tourists. 
 Below are the Home and Events pages for the app. 
 
 <img width="397" alt="design_others" src="https://user-images.githubusercontent.com/6757445/39433597-426f365a-4c64-11e8-9870-a91f6c88aa9c.PNG">
