@@ -29,7 +29,7 @@ View the demo video **[HERE](https://www.youtube.com/watch?v=jjCbuyv5IR8)**
 
 **Design for Another World** 
 
-In this project, my team and I used Aframe to create a basic virtual-reality environment. We took the assignment literally and create another world: the universe. The purpose of this project was to introduce young children to an interactive model of the universe. Although it is not entirely to scale, the project can be expanded upon in the future to include proper (to scale) calculations as well as more interactive components such as basic planet information. 
+In this project, my team and I used Aframe to create a basic virtual-reality environment. We took the assignment literally and created another world: the solar system. The purpose of this project was to introduce young children to an interactive model of the universe. Although it is not entirely to scale, the project can be expanded upon in the future to include proper (to scale) calculations as well as more interactive components such as basic planet information. 
 
 View the demo **[HERE](http://users.wpi.edu/~mbosik/AnotherWorld/)**
 
