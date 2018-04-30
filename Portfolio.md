@@ -5,9 +5,12 @@ The purpose of this project was to identify elements of good and bad design at W
 
 2. [Design for Others](https://medium.com/@ilanazeldin/designing-for-tourists-816e20fdb741 "Design for Others") 
 
-In this project, we were tasked to re-design the Worcester Public Library webpage for a target demographic: Tourists. This was my first look into the world of the design process and how to succesfully navigate the design process from ideation to completion. In order to be successful in our design, we had to conduct research into the needs of our target demographic and create a Moodboard to set the tone for our mobile design that included a set of fonts, colors, and styles that we would use during development. We used proto.io to complete our project and make our prototype. 
+In this project, we were tasked to re-design the Worcester Public Library webpage for a target demographic: Tourists. This was my first look into the world of the design process and how to succesfully navigate the design process from ideation to completion. In order to be successful in our design, we had to conduct research into the needs of our target demographic and create a Moodboard to set the tone for our mobile design that included a set of fonts, colors, and styles that we would use during development. We used proto.io to complete our project and make our prototype.
 
 3. [Design for Understanding](https://medium.com/@ilanazeldin/design-for-understanding-39975b05bcea "Design for Understanding")
+
+Through this project, I was able to understand the powerful impact of data visualization 
+
 4. [Design for Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2 "Design for Tension")
 5. [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7 "Desing for Wellbeing")
 6. Design for Another World 
