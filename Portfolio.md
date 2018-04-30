@@ -19,4 +19,4 @@ Through this project, I was able to understand the powerful impact of data visua
 
 View the Demo HERE
 
-Click [Here](README.md) to go Back
+Click **[HERE](README.md)** to go Back
