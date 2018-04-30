@@ -16,7 +16,7 @@ I am a Management Information Systems major with minors in Computer Science and 
 6. Design for Another World 
 
 ## Design Manifesto
-When I began CS 3041, I had never taken any design-based courses before and design was not something that I frequently thought about. What I learned in this course goes far beyond technologies like JavaScript, Affectiva, FlowXo, etc. I learned how to navigate the design-process to create a final product, regardless of the technology in use. 
+When I began CS 3041, I had never taken any design-based courses before and design was not something that I frequently thought about. What I learned in this course goes far beyond technologies like JavaScript, Affectiva, FlowXo, etc. I learned how to navigate the design-process to create a strong final product, regardless of the technology in use. 
  
 ### The Design Process
 What I discovered through this course, is that above all, sticking to the design process is integral. Without it, your team quickly becomes lost and unfocused. 
