@@ -5,7 +5,7 @@
 <img width="189" alt="ilana3" src="https://user-images.githubusercontent.com/6757445/39410842-4f079468-4bcc-11e8-9ad2-e160270e468e.PNG">
 
 
-I am a Management Information Systems major with minors in Computer Science and Data Science.This class acts as my minor capstone for CS. 
+I am a Management Information Systems major with minors in Computer Science and Data Science.This class acts as my minor capstone for CS. This Summer, I will be working as a Data Analytics intern at MAPFRE Insurance. 
 
 ## Projects/Portfolio
 1. Airport App Design
@@ -39,7 +39,8 @@ For this project, we were able to deliver a successful prototype of an mobile ap
 
 
 ### Challenges
-Group communication
+One of the challenges that arguably all of my groups faced was a lack of communication. This was most evident in my Design for Understanding group. After brainstorming and settling on our final designs, we all went our separate ways to code the project and there was little to no communication until the last day of the project. The day before the project was due, one of the group members messaged our group the following message: "Okay, this project is due tomorrow and I don't know what we have done. Can you guys post whatever you have finished for the demo here?"
+This resulted in us delivering an inconsistent and disjoint final project. 
 
 ### Reflection
 
