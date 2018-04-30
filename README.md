@@ -1,6 +1,6 @@
 ### Welcome to Ilana's Design Manifesto
 
-## About Me
+## About Me 👩🏻‍🔬
 
 <img width="189" alt="ilana3" src="https://user-images.githubusercontent.com/6757445/39410842-4f079468-4bcc-11e8-9ad2-e160270e468e.PNG">
 
