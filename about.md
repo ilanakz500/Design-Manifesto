@@ -6,4 +6,4 @@ title: About ME
 
 In a word: **Awesome!**
 
-See the [Home page](README.md)
+Go Back to the Home Page: [Back](README.md)
