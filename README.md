@@ -35,7 +35,16 @@ While many of the projects I worked on produced visually appealing deliverables,
 When working on the Design for Others project, my team made sure to do a lot of research on our target demographic: Toursits. We looked at webpages and mobile applications that were designed specifically for tourists, to see what functionalities were available. 
 In our Design for Others project, we were asked to design for tourists. 
 For this project, we were able to deliver a successful prototype of an mobile app of the Worcester Public Library, designed specifically for tourists. 
+Below are the Home and Events pages for the app. As you can see, we broke up the content into 5 main sections: 
+- Home
+- Events
+- Resources
+- Information
+- Emergency
 <img width="397" alt="design_others" src="https://user-images.githubusercontent.com/6757445/39433597-426f365a-4c64-11e8-9870-a91f6c88aa9c.PNG">
+
+We chose to include an 'Emergency' page because tourists travelling 
+Without conducting a study of our target demographic, we would have missed 
 
 
 ### Challenges
