@@ -1,5 +1,5 @@
 
-## Design Manifesto
+## Design Manifesto 📝
 When I began CS 3041, I had never taken any design-based courses before and design was not something that I frequently thought about. What I learned in this course goes far beyond technologies like JavaScript, Affectiva, FlowXo, etc. I learned how to navigate the design-process to create a strong final product, regardless of the technology in use. 
  
 ### The Design Process
@@ -37,4 +37,4 @@ This lack of communication resulted in us delivering an inconsistent and disjoin
 
 ### Reflection
 
-Go Back to the Home Page: [Back](README.md)
+Click [Here](README.md) to go Back
