@@ -1,8 +1,8 @@
 ---
-title: About
+title: About ME
 ---
 
-# About this project
+# About Ilana
 
 In a word: **Awesome!**
 
