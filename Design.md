@@ -13,8 +13,7 @@ Additionally, understanding the available technologies
 Lastly, time is another important aspect in understanding the limitations of your project. 
 
 ### User Testing
-Test, test, test. I wish I had understood the importance of conducting vigorous
-You may design what seems to be a seamless product, with tons of functionality, but if this product poses no benefit to your target demographic, than it becomes useless. 
+Test, test, test. I wish I had understood the importance of conducting vigorous testing before, during, and after implementation of your prototype. You may design what seems to be a seamless product, with tons of functionality, but if this product poses no benefit to your target demographic, than it becomes useless. 
 While many of the projects I worked on produced visually appealing deliverables, my team did not understand our target demographic well enough to deliver a 100% useful product. 
 When working on the Design for Others project, my team made sure to do a lot of research on our target demographic: Toursits. We looked at webpages and mobile applications that were designed specifically for tourists, to see what functionalities were available. 
 In our Design for Others project, we were asked to design for tourists. 
