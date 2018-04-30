@@ -22,7 +22,7 @@ Below are the Home and Events pages for the app.
 
 We chose to include an 'Emergency' page because we are assuming the tourists are foreing to either Massuchusetts and/or the United States, so they may not know how to contact emergency services or about specific health & safety resources available near Worcester.
 Without conducting an extensive study of our target demographic, we would have missed certain aspects of the design such as having the option to select a language on the Home page. 
-However, more testing can always be done. With a bit more time on our hands, it would be very useful to interview real tourists travelling in the Worcester area to ask them what they expect to see from a Public Library application. In addition, testing the prototype is extremely helpful to designers. During the demo-day in class we received many useful suggestions on our app desgin such as adding a page for checking out books and editing the layout of our Events page to be more user-friendly. Without user feedback like this, delpoying our app to the market may result in a failed venture. 
+However, more testing can always be done. With a bit more time on our hands, it would be very useful to interview real tourists travelling in the Worcester area to ask them what they expect to see from a Public Library application. In addition, testing the prototype is extremely helpful to designers. During the demo-day in class we received many useful suggestions on our app design such as adding a page for checking out books and editing the layout of our Events page to be more user-friendly. Without user feedback like this, delpoying our app to the market may result in a failed venture. 
 
 
 ### Challenges
