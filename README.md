@@ -7,6 +7,8 @@
 
 I am a Management Information Systems major with minors in Computer Science and Data Science. This class acts as my minor capstone for CS. This Summer, I will be working as a Data Analytics intern at MAPFRE Insurance.
 
+[Click Here for my Design Manifesto](Design.md)
+
 ## Projects/Portfolio
 1. [Good Design, Bad Design](https://medium.com/@ilanazeldin/wpi-design-in-action-85e33b8efcc0 "Good Design, Bad Design")
 2. [Design for Others](https://medium.com/@ilanazeldin/designing-for-tourists-816e20fdb741 "Design for Others") 
