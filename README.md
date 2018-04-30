@@ -28,6 +28,11 @@ Additionally, understanding the available technologies
 
 Lastly, time is another important aspect in understanding the limitations of your project. 
 
+### User Testing
+Test, test, test. I wish I had understood the importance of conducting vigorous
+You may design what seems to be a seamless product, with tons of functionality, but if this product poses no benefit to your target demographic, than it becomes useless. 
+While many of the projects I worked on produced visually appealing deliverables, my team did not understand our target de
+
 ### Challenges
 Group communication
 
