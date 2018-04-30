@@ -9,4 +9,6 @@ The purpose of this project was to identify elements of good and bad design at W
 5. [Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7 "Desing for Wellbeing")
 6. Design for Another World 
 
+View the Demo HERE
+
 Click [Here](README.md) to go Back
