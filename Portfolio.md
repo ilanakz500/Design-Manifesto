@@ -21,7 +21,14 @@ View the demo video **[HERE](https://www.youtube.com/watch?v=3slmotxxbrQ&feature
 
 **[Design for Wellbeing](https://medium.com/@ilanazeldin/design-for-wellbeing-7cc8d2f7a9a7 "Desing for Wellbeing")**
 
+This project involved implementing Affectiva's libraries to gage users emotions and design a product that is beneficial for the user. My group implemented Affectiva to detect the user's joy response and determine if they were a cat person or a dog person. Then, we presented users with a list of benefits of being a dog-owner or a cat-owner, with the hopes of increasing their welfare.
+
+View the demo **[HERE](https://brcoll.github.io/DesignForWellbeing/)**
+View the demo video **[HERE](https://www.youtube.com/watch?v=jjCbuyv5IR8)**
+
 **Design for Another World** 
+
+In this project, my team and I used Aframe to create a basic virtual-reality environment. We took the assignment literally and create another world: the universe. The purpose of this project was to introduce young children to an interactive model of the universe. Although it is not entirely to scale, the project can be expanded upon in the future to include proper (to scale) calculations as well as more interactive components such as basic planet information. 
 
 View the demo **[HERE](http://users.wpi.edu/~mbosik/AnotherWorld/)**
 
