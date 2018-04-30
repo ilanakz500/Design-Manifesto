@@ -3,7 +3,7 @@ click **[HERE](README.md)** to go back
 ## Project Portfolio 💼
 **[Good Design, Bad Design](https://medium.com/@ilanazeldin/wpi-design-in-action-85e33b8efcc0 "Good Design, Bad Design")**
 
-The purpose of this project was to identify elements of good and bad design at WPI. This proved more difficult than I thought, since after being on campus for 1.5 years, I had become accustomed to certain elements of 'bad design' because I interacted with them so frequently. This project made me view the world around me in a way I had never done before and made me really think about what makes a good design good or a bad design bad. 
+The purpose of this project was to identify elements of good and bad design at WPI. This proved more difficult than I thought, since I had become accustomed to certain elements of 'bad design' after attending school here for over a year because I interacted with them so frequently. This project made me view the world around me in a way I had never done before and made me really think about what makes a good design good or a bad design bad. 
 
 **[Design for Others](https://medium.com/@ilanazeldin/designing-for-tourists-816e20fdb741 "Design for Others")**
 
