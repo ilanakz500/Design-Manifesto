@@ -8,7 +8,7 @@
 I am a Management Information Systems major with minors in Computer Science and Data Science. This class acts as my minor capstone for CS. This Summer, I will be working as a Data Analytics intern at MAPFRE Insurance.
 
 ## Projects/Portfolio
-1. Airport App Design
+1. [Good Design, Bad Design](https://medium.com/@ilanazeldin/wpi-design-in-action-85e33b8efcc0 "Good Design, Bad Design")
 2. [Design for Others](https://medium.com/@ilanazeldin/designing-for-tourists-816e20fdb741 "Design for Others") 
 3. [Design for Understanding](https://medium.com/@ilanazeldin/design-for-understanding-39975b05bcea "Design for Understanding")
 4. [Design for Tension](https://medium.com/@michaelbosik/design-for-tension-group-13-e49fcef641b2 "Design for Tension")
