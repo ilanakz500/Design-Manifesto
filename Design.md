@@ -19,16 +19,13 @@ While many of the projects I worked on produced visually appealing deliverables,
 When working on the Design for Others project, my team made sure to do a lot of research on our target demographic: Toursits. We looked at webpages and mobile applications that were designed specifically for tourists, to see what functionalities were available. 
 In our Design for Others project, we were asked to design for tourists. 
 For this project, we were able to deliver a successful prototype of an mobile app of the Worcester Public Library, designed specifically for tourists. 
-Below are the Home and Events pages for the app. As you can see, we broke up the content into 5 main sections: 
-- Home
-- Events
-- Resources
-- Information
-- Emergency
+Below are the Home and Events pages for the app. 
+
 <img width="397" alt="design_others" src="https://user-images.githubusercontent.com/6757445/39433597-426f365a-4c64-11e8-9870-a91f6c88aa9c.PNG">
 
-We chose to include an 'Emergency' page because tourists travelling 
-Without conducting a study of our target demographic, we would have missed 
+We chose to include an 'Emergency' page because we are assuming the tourists are foreing to either Massuchusetts and/or the United States, so they may not know how to contact emergency services or about specific health & safety resources available near Worcester.
+Without conducting an extensive study of our target demographic, we would have missed certain aspects of the design such as having the option to select a language on the Home page. 
+However, more testing can always be done. With a bit more time on our hands, it would be very useful to interview real tourists travelling in the Worcester area to ask them what they expect to see from a Public Library application. In addition, testing the prototype is extremely helpful to designers. During the demo-day in class we received many useful suggestions on our app desgin such as adding a page for checking out books and editing the layout of our Events page to be more user-friendly. Without user feedback like this, delpoying our app to the market may result in a failed venture. 
 
 
 ### Challenges
