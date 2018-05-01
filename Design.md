@@ -33,8 +33,7 @@ However, more testing can always be done. With a bit more time on our hands, it 
 
 **Wizard of Oz Testing**
 
-My group for Design for Wellbeing employed Wizard of Oz testing. 
-
+My group for Design for Tension employed Wizard of Oz testing when creating our chatbot.
 
 
 ### Challenges
