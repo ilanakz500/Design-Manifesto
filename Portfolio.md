@@ -27,9 +27,11 @@ View the demo **[HERE](https://brcoll.github.io/DesignForWellbeing/)**
 
 View the demo video **[HERE](https://www.youtube.com/watch?v=jjCbuyv5IR8)**
 
-**Design for Another World** 
+**[Design for Another World](https://medium.com/@michaelbosik/design-for-another-world-group-1-dd3142b64e54)** 
 
 In this project, my team and I used Aframe to create a basic virtual-reality environment. We took the assignment literally and created another world: the solar system. The purpose of this project was to introduce young children to an interactive model of the universe. Although it is not entirely to scale, the project can be expanded upon in the future to include proper (to scale) calculations as well as more interactive components such as basic planet information. 
 
 View the demo **[HERE](http://users.wpi.edu/~mbosik/AnotherWorld/)**
+
+View the demo video **[HERE](https://www.youtube.com/watch?v=Lq_apuIxAuY)**
 
