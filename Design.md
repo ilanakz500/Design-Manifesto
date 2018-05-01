@@ -58,3 +58,6 @@ One of the challenges that arguably all of my groups faced was a lack of communi
 This lack of communication resulted in our delivery of an inconsistent and disjoint final project. 
 
 ### Reflection
+I will probably end up using very few of the technologies I learned about in this course in my post-graduate life. However, I will now hold a deep appreciation for elements of good and clever design that I often took for granted seven weeks ago.
+
+Ultimately, this reflection would not have been possible without careful documentation on the part of myself and my team partners. Surely then, the true lesson in this class lies in teaching how to meticulously document the entire design process. 
