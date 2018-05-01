@@ -11,12 +11,18 @@ What I discovered through this course, is that above all, sticking to the design
 ### Brainstorming
 Brainstorming is arguably the most important step of the design process. It is important to brainstorm any and all possible ideas that come to mind, even if they seem too ambitious, too simple, or too unrelated. My group for Design for Tension did a great job at brainstorming. 
 
+<img width="264" alt="brainstorm" src="https://user-images.githubusercontent.com/6757445/39476499-2944aa40-4d2a-11e8-839f-55caa80054f3.PNG">
+
+We were able to brainstorm over 15 possible topics for our chatbot to debate and then narrow down to three (highlighted) choices. 
+
 ### Expectations versus Reality
-Looking back on the course, I now understand that acknowledging your own and your team's limitations prior to beginning a project is an important step to delivering a successful project. Both the Design for Tension and the Design for Wellbeing projects required knowledge of JS for the deliverable; however, my project team for Design for Wellbeing had a much greater combined knowledge of JS than my group for Design for Understanding. 
+Looking back on the course, I now understand that acknowledging your own and your team's limitations as well as the limitations of the available technologies prior to beginning a project is an important step in delivering a successful project.
 
-Additionally, understanding the available technologies 
+In my Design for Wellbeing group, our aim was to create an educational and interactive model of the Solar System. However, due to our limited knowledge of A-Frame we were only able to deliver on half of our goal. Something we were planning on incorporating was for the user to be able to click on any planet and for a small drop down window to appear, providing the user with information on the planet. However, we were unable to implement this into our code. 
 
-Lastly, time is another important aspect in understanding the limitations of your project. 
+For a demo of our final project click **[here](http://users.wpi.edu/~mbosik/AnotherWorld/)**. 
+
+Lastly, time is another important aspect in understanding the limitations of your project. Given more time in our Design for Another World project, we would have been able to do more calculations in order to scale the planets properly. 
 
 ### Feedback
 Test, test, test. I wish I had understood the importance of conducting vigorous testing before, during, and after implementation of your prototype. You may design what seems to be a seamless product, with tons of functionality, but if this product poses no benefit to your target demographic, than it becomes useless. 
