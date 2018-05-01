@@ -6,8 +6,8 @@ navbar-text-col: "#FF1493"
 
 footer-col: "#FF1493"
 footer-text-col: "#FF1493"
-footer-link-col: "#FF1493
+footer-link-col: "#FF1493"
 
-link-col: "#008AFF"
-hover-col: "#0085A1"
+link-col: "#FF1493"
+hover-col: "#E135D0"
 
