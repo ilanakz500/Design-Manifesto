@@ -2,7 +2,7 @@ click **[HERE](README.md)** to go back
 
 ## Project Portfolio 💼
 
-Click on the title of each project for a link to the Medium post. 
+_Click on the title of each project for a link to the Medium post_
 
 **[Good Design, Bad Design](https://medium.com/@ilanazeldin/wpi-design-in-action-85e33b8efcc0 "Good Design, Bad Design")**
 
