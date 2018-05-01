@@ -2,6 +2,12 @@ theme: jekyll-theme-minimal
 title: CS 3041 Design Manifesto
 description: Ilana Zeldin
 avatar: "/ilana3.png"
+navbar-text-col: "#FF1493"
 
+footer-col: "#FF1493"
+footer-text-col: "#FF1493"
+footer-link-col: "#FF1493
 
-navbar-text-col: "#404040"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+
