@@ -34,7 +34,7 @@ When working on the Design for Others project, my team made sure to do a lot of 
 
 <img width="405" alt="moodboard" src="https://user-images.githubusercontent.com/6757445/39445007-9591a6ba-4c87-11e8-98fd-2000b1a34965.PNG">
 
-For this project, we were able to deliver a successful prototype of an mobile app of the Worcester Public Library, designed specifically for tourists. 
+For this project, we were able to deliver a successful prototype of a mobile app of the Worcester Public Library, designed specifically for tourists. 
 Below are the Home and Events pages for the app. 
 
 <img width="397" alt="design_others" src="https://user-images.githubusercontent.com/6757445/39433597-426f365a-4c64-11e8-9870-a91f6c88aa9c.PNG">
